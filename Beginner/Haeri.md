@@ -1,10 +1,12 @@
 # My commit List
-|Opensource|Commit ID|Comment|Link|
+|Opensource|Comment|Issue Number|Commit URL|
 |-|-|-|-|
-|Tensorflow|bdf74f9c35223230a06cabbe062384b822fa0532|function fixed|http://github.com/tensorflow/issues/AAAA
-|Tensorflow|bdf74f9c35223230a06cabbe062384b822fa0533|function fixed2|http://github.com/tensorflow/issues/AAAA2
+|Tensorflow|function fixed|#310239|https://github.com/tensorflow/tensorflow/commit/62ccdd139089c1d7883c346eb0742e1671231241
+|Tensorflow|function fixed2|None|https://github.com/tensorflow/tensorflow/commit/62ccdd139089c1d7883c346eb0742e16712313242
 
 # My Issue List
-|Opensource|Issue Number|Commit ID|Comment|
+|Opensource|Comment|Issue Number|Commit URL|
+
 |-|-|-|-|
-|Tensorflow|#37964|bd3df74f9c350270a06cabbe062384b822fa05eb|A problem issue solved|
+|Tensorflow|A problem issue solved|#310239|https://github.com/tensorflow/tensorflow/commit/62ccdd139089c1d7883c346eb0742e1671231251
+|Tensorflow|A problem issue solved|#310239|https://github.com/tensorflow/tensorflow/commit/62ccdd139089c1d7883c346eb0742e1671231234
