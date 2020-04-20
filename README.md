@@ -1,4 +1,6 @@
 # sos-master
+  
+ 현재 가안
 
  Beginner.md : Master 프로그램 참가자 
  
