@@ -1,4 +1,4 @@
 |NO|ID|
 |-|-|
-|1|[Haeri](https://github.com/yayyhr/sos-master)|
-|2|[A person](https://github.com/a-person/sos-master)|
+|1|[A_E_person](https://github.com/e-person/sos-master)|
+|2|[A_F_person](https://github.com/f-person/sos-master)|

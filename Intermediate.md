@@ -1,4 +1,4 @@
 |NO|ID|
 |-|-|
-|1|[A person](https://github.com/a-person/sos-master)|
-|2|[B person](https://github.com/b-person/sos-master)|
+|1|[I_C_person](https://github.com/c-person/sos-master)|
+|2|[I_D_person](https://github.com/d-person/sos-master)|
