@@ -1,6 +1,6 @@
-|NO|ID|
+|Name|ID(Github Link Address)|
 |-|-|
-|1|[SEOYOUNG](https://github.com/Seo-Young/sos-master)|
-|2|[Haeri](https://github.com/yayyhr/sos-master)|
-|3|[B_A_person](https://github.com/a-person/sos-master)|
-|4|[B_B_person](https://github.com/b-person/sos-master)|
+|SEOYOUNG|[Seo-Young](https://github.com/Seo-Young/sos-master)|
+|Haeri|[yayyhr](https://github.com/yayyhr/sos-master)|
+|A_person|[kim-person](https://github.com/kim-person/sos-master)|
+|B_person|[lee-person](https://github.com/lee-person/sos-master)|
