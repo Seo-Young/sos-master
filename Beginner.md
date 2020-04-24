@@ -1,4 +1,4 @@
-|Name|ID|
+|Name|ID(Github Link Address)|
 |-|-|
 |SEOYOUNG|[Seo-Young](https://github.com/Seo-Young/sos-master)|
 |Haeri|[yayyhr](https://github.com/yayyhr/sos-master)|
