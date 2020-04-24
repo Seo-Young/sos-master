@@ -1,4 +1,4 @@
-|NO|ID|
+|Name|ID(Github Link Address)|
 |-|-|
-|1|[I_C_person](https://github.com/c-person/sos-master)|
-|2|[I_D_person](https://github.com/d-person/sos-master)|
+|C_person|[c-person](https://github.com/c-person/sos-master)|
+|D_person|[d-person](https://github.com/d-person/sos-master)|
