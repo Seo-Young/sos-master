@@ -1,5 +1,5 @@
-|Open source|Name(Github Link Address|
+|Open source|ID(Github Link Address|
 |-|-|
-|sos-masters|[Heesung](https://github.com/kimheesung-samsung)|
-|A open source|[A person](https://github.com/A-person)|
-|B open source|[B person](https://github.com/B-person)|
+|sos-masters|[kimheesung-samsung](https://github.com/kimheesung-samsung)|
+|Tizen-CSharp-Samples|[sgchoi5](https://github.com/sgchoi5)|
+|NNStreamer|[myungjoo](https://github.com/myungjoo)|
