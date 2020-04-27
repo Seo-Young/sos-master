@@ -1,4 +1,4 @@
-|Open source|ID(Github Link Address|
+|Open source|Name(Github Link Address|
 |-|-|
 |sos-masters|[Heesung](https://github.com/kimheesung-samsung)|
 |A open source|[A person](https://github.com/A-person)|
