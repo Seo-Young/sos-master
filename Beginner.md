@@ -5,3 +5,4 @@
 |A_person|[kim-person](https://github.com/kim-person/sos-master)|
 |B_person|[lee-person](https://github.com/lee-person/sos-master)|
 |Heesung|[kimheesung](https://github.com/kimheesung/sos-master)|
+|D_person|[choi-person](https://github.com/choi-person/sos-master)|
